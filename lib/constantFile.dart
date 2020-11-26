@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-const kactiveColor = Color(0xFF1D1E33);
-const kinactiveColor = Color(0xFF111320);
+const kactiveColor = Color(0xFF1D1E88);
+const kinactiveColor = Color(0xF985320);
 const kBottomContainerHeight = 90.0;
 const kBottomContainerColour = Colors.lightGreen;
 
