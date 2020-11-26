@@ -95,7 +95,7 @@ class _InputPageState extends State<InputPage> {
                   ),
                   Slider(
                     activeColor: Colors.lightBlueAccent,
-                    inactiveColor: Colors.lightGreenAccent,
+                    inactiveColor: Colors.lightGreen,
                     value: height.toDouble(),
                     onChanged: (double newValue) {
                       setState(() {
