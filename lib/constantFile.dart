@@ -20,7 +20,7 @@ const kNumberStyle = TextStyle(
 
 const kTitleTextStyle = TextStyle(
   fontSize: 50.0,
-  fontWeight: FontWeight.bold,
+  fontWeight: FontWeight.normal,
 );
 
 const kResultTextStyle = TextStyle(
